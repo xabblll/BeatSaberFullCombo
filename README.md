@@ -10,4 +10,8 @@ Small utility for viewing how many songs you completed with full combo
 
 
 **How it work**
-Program reads PlayerLog.dat file in %AppData%, and filters file content with Regex match.
+- Program reads PlayerLog.dat file in %AppData%, and filters file content with Regex match.
+
+**Additional info**
+- Custom songs counts
+- Non standard modes (90, 360, one saber) ignored
